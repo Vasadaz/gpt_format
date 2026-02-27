@@ -20,7 +20,7 @@ _____
 # **THE PROJECT IS CLOSED**
 
 ## Description
-#### #### Script for auto-formatting HDD>3TB to GPT.
+#### Script for auto-formatting HDD>3TB to GPT.
 1) Automation of formatting.
 2) Audio accompaniment using speaker, for blind formatting.
 3) A script for automating disk formatting in GPT.
